@@ -476,7 +476,7 @@ successBox.innerHTML = `
   <div class="orderSuccessContent">
     <div class="successIcon">✔</div>
     <h2>Pedido enviado com sucesso!</h2>
-    <p>O contato será efetuado via Discord por <strong>Runeterra Shadow</strong>.</p>
+    <p>O contato será efetuado via Discord pelos integrantes <strong>OS AMOSTRADIM</strong>.</p>
     <button class="btn" id="closeSuccessMsg">Fechar</button>
   </div>
 `;
